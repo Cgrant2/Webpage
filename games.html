@@ -34,6 +34,18 @@
 			background-color:#616183;
 			box-shadow: 0 0 10px 2px #000000;
 		}
+		.container {
+			display: grid;
+			grid-template-columns: auto auto;
+			background-color: transparent;
+			padding: 10px;
+		}
+		.container > div {
+			border: 1px solid black;
+			padding: 50px;
+			font-size: 30px;
+			text-align: center;
+		}
 		a:link {
 			color:#000000;
 			background-color:transparent;
@@ -54,13 +66,13 @@
 
 	<body bgcolor="#FDFDFD">
 		<div class=navBar align=left>
+			<a href="./home.php" 
+			title="Home" style="font-size:30px; padding:16px;">
+				<span class=boxLink>Home</span>
+			</a>	
 			<a href="./about.html" 
 			title="About Me" style="font-size:30px; padding:16px;">
 				<span class=boxLink>About</span>
-			</a>	
-			<a href="./games.html" 
-			title="Games" style="font-size:30px; padding:16px;">
-				<span class=boxLink>Games</span>
 			</a>	
 			<a href="https://lab46.g7n.org/journal/spring2025/cgrant9/start" 
 			title="Journal" style="font-size:30px; padding:16px;">
@@ -71,9 +83,147 @@
 		<div class=wrapper align="center">
 			<h1 style="font-size:40px; color:#000000; padding:5px;">
 				<span style="border-width:3x; border-style:solid; border-color:#000000; padding:10px;">
-					&emsp;TEMPORARY PAGE TO BE UPDATED&emsp;
+					&emsp;Darkmoon Games&emsp;
 				</span>
 			</h1>
+			<div class=container>
+				<div>
+					<img src="webpagestuff/gameimages/WPA.png" style="height:164px;">
+					<h2>
+						Web Page Adventure
+					</h2>
+					<p>
+						My first foray into html. Find
+						<br>
+						your way to the flute section
+						<br>
+						for your first day at band camp.
+						<br>
+						<br>
+						<a href="https://lab46.g7n.org/~cgrant9/wpa0/adventure.html">
+							Play Now!
+						</a>
+					</p>
+				</div>
+				<div>
+					<img src="webpagestuff/gameimages/AA.png" style="height:164px;">
+					<h2>
+						Archer Attack!
+					</h2>
+					<p>
+						A simple clone of the classic game 
+						<br>
+						Space Invaders, as well as the first 
+						<br>
+						(non-html) game I created.
+						<br> 
+						(Likely buggy)
+						<br>
+						<br>
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/ArcherAttack.v32">
+							Download
+						</a>
+					</p>
+
+				</div>
+				<div>
+					<img src="webpagestuff/gameimages/Blackjack.png" style="height:164px;">
+					<h2>
+						Blackjack
+					</h2>
+					<p>
+						Gamble, Hit, and Bust in this port
+						<br>
+						of the classic game Blackjack
+						<br>
+						<br>
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/Blackjack.v32">
+							Download
+						</a>
+					</p>
+				</div>
+				<div>
+					<img src="webpagestuff/gameimages/Freecell.png" style="height:164px;">
+					<h2>
+						Freecell
+					</h2>
+					<p>
+						Another port of a classic card game,
+						<br>
+						Freecell Solitaire. Try to sort the
+						<br>
+						deck only using free cells to move
+						<br>
+						cards.
+						<br>
+						<br>
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/Freecell.v32">
+							Download
+						</a>
+					</p>
+				</div>
+				<div>
+					<img src="webpagestuff/gameimages/BTD.png" style="height:164px;">
+					<h2>
+						Bitwise Tower Defense
+					</h2>
+					<p>
+						My pride and joy from Fall 2024,
+						<br> 
+						Bitwise Tower Defense. Destroy the 
+						<br>
+						invading bits before they destroy you, 
+						<br>
+						by using bitwise logic!
+						<br>
+						<br>
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/BitwiseTowerDefense.v32">
+							Download
+						</a>
+					</p>
+				</div>
+				<div>
+					<img src="webpagestuff/gameimages/Tree.png" style="height:164px;">
+					<h2>
+						Bonsai Trimmer
+					</h2>
+					<p>
+						Relax by trimming a binary tree to 
+						<br>
+						find the correct nodes. 
+						<br>
+						<br>
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/BonsaiTrimmer.v32">
+							Download
+						</a>
+					</p>
+				</div>
+				<div>
+					<img src="webpagestuff/gameimages/Snake.png" style="height:164px;">
+					<h2>
+						Snake
+					</h2>
+					<p>
+						Another classic! The game of snake
+						<br>
+						brought to the Vircon32 Console
+						<br>
+						<br>
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/Snake.v32">
+							Download
+						</a>
+					</p>
+				</div>
+				<div>
+				<h3>
+					<br>
+					<br>
+					<br>
+					<br>
+					More to come!
+				</h3>
+				</div>
+			</div>
 		</div>
 	</body>
 </html>
