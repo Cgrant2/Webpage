@@ -47,16 +47,26 @@
 			text-align: center;
 		}
 		a:link {
-			color:#000000;
+			color:#00007F;
 			background-color:transparent;
 			text-decoration:none;
 		}
 		a:visited {
+			color:#0000AF;
+			background-color:transparent;
+			text-decoration:underline;
+		}
+		a:hover {
+			color:#003FBF;
+			background-color:transparent;
+			text-decoration:none;
+		}
+		a.bar:link, a.bar:visited {
 			color:#000000;
 			background-color:transparent;
 			text-decoration:none;
 		}
-		a:hover {
+		a.bar:hover {
 			color:#003FBF;
 			background-color:transparent;
 			text-decoration:none;
@@ -66,15 +76,15 @@
 
 	<body bgcolor="#FDFDFD">
 		<div class=navBar align=left>
-			<a href="./home.php" 
+			<a class="bar" href="./home.html" 
 			title="Home" style="font-size:30px; padding:16px;">
 				<span class=boxLink>Home</span>
 			</a>	
-			<a href="./about.html" 
+			<a class="bar" href="./about.html" 
 			title="About Me" style="font-size:30px; padding:16px;">
 				<span class=boxLink>About</span>
 			</a>	
-			<a href="https://lab46.g7n.org/journal/spring2025/cgrant9/start" 
+			<a class="bar" href="https://lab46.g7n.org/journal/spring2025/cgrant9/start" 
 			title="Journal" style="font-size:30px; padding:16px;">
 				<span class=boxLink>Journal</span>
 			</a>	
@@ -120,7 +130,7 @@
 						(Likely buggy)
 						<br>
 						<br>
-						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/ArcherAttack.v32">
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/ArcherAttack/ArcherAttack.v32">
 							Download
 						</a>
 					</p>
@@ -137,7 +147,7 @@
 						of the classic game Blackjack
 						<br>
 						<br>
-						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/Blackjack.v32">
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/Blackjack/Blackjack.v32">
 							Download
 						</a>
 					</p>
@@ -157,7 +167,7 @@
 						cards.
 						<br>
 						<br>
-						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/Freecell.v32">
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/Freecell/Freecell.v32">
 							Download
 						</a>
 					</p>
@@ -177,7 +187,7 @@
 						by using bitwise logic!
 						<br>
 						<br>
-						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/BitwiseTowerDefense.v32">
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/BitwiseTowerDefense/BitwiseTowerDefense.v32">
 							Download
 						</a>
 					</p>
@@ -193,7 +203,7 @@
 						find the correct nodes. 
 						<br>
 						<br>
-						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/BonsaiTrimmer.v32">
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/BonsaiTrimmer/BonsaiTrimmer.v32">
 							Download
 						</a>
 					</p>
@@ -209,8 +219,66 @@
 						brought to the Vircon32 Console
 						<br>
 						<br>
-						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/Snake.v32">
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/Snake/Snake.v32">
 							Download
+						</a>
+					</p>
+				</div>
+				<div>
+					<img src="webpagestuff/gameimages/Arrow.png" style="height:164px;">
+					<h2>
+						Cursor Demo
+					</h2>
+					<p>
+						Not so much a game, as it is a
+						<br>
+						demo of basic console functionality
+						<br>
+						in assembly code
+						<br>
+						<br>
+						<a href="https://github.com/Cgrant2/Games/tree/main/CursorDemo">
+							Go To Page
+						</a>
+					</p>
+				</div>
+				<div>
+					<img src="webpagestuff/gameimages/Pong.png" style="height:164px;">
+					<h2>
+						Pong
+					</h2>
+					<p>
+						An port of pong brought to 
+						<br>
+						Vircon32 built entirely in 
+						<br>
+						assembly
+						<br>
+						<br>
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/Pong/Pong.v32">
+							Download
+						</a>
+					</p>
+				</div>
+				<div>
+					<img src="webpagestuff/gameimages/sgmA.png" style="height:164px;">
+					<h2>
+						Snake Go Move (sgmA)
+					</h2>
+					<p>
+						Another port of snake, but
+						<br>
+						more portable; this simple
+						<br>
+						snake clone runs in your CLI!
+						<br>
+						(Note: this game needs to be 
+						<br>
+						compiled to run)
+						<br>
+						<br>
+						<a href="https://github.com/Cgrant2/Games/raw/refs/heads/main/sgmA/sgmA.c">
+							Go To Download
 						</a>
 					</p>
 				</div>
@@ -223,6 +291,17 @@
 					More to come!
 				</h3>
 				</div>
+			</div>
+			<br>
+			<div style="font-size:30px;">
+			Interested in looking deeper?
+			<br>
+			<a href="https://github.com/Cgrant2/Games/tree/main/">
+				Look here!
+			</a>
+			<br>
+			<br>
+			<br>
 			</div>
 		</div>
 	</body>
