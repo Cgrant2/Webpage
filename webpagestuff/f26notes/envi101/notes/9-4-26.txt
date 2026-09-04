@@ -1,0 +1,116 @@
+Population Biology
+
+REFLECTION 2 DUE MONDAY NIGHT!!!
+
+Field Trip Tuesday
+
+Exponential Growth, J shaped, growth without bound
+
+Logistic growth, S shaped, lots of growth that levels off at capacity
+
+Rule of 70: divide 70 by rate to get doubling time
+
+Exponential growth wont happen forever in real life
+
+We dont have ininite food, resources, or space
+Species will compete for food water and space
+Diseases will cull a concentrated population
+Predators will hunt populations down
+
+HOLY SHIT GOTTA MAKE AN HTML PAGE FOR NOTES
+
+Density independant factors:
+Habitat destruction, population doesnt matter if a flood comes by
+Change in climate, something that kills everything doesnt care about desity
+Pesticides: see above
+
+The carrying capacity (K) depends on environmental factors, and populations 
+will generally be limited by it
+
+The Kaibab Plateau and Overpopulation:
+In Arizona, 1906
+Roozevelt was a fan of hunting, wanted to set up a preserve where hunting 
+wasnt allowed
+Killed all the predators in the preserve
+Exploded deer population, no barriers for growth, similar to yellowstone 
+after wolf culling
+Deer exceeded carrying capacity, not enough food, thousands of deer 
+starved to death
+Government officals noticed the disaster going on and reopened hunting in the
+area
+
+Log and Exponential graph are models, not fully accurate, real graphs bounce
+up and down as conditions change
+
+Deer in NY:
+Currently overpopulated because of lack of predators
+possible solutions:
+*Extend Hunting season
+*Hire Sharpshooters
+*Deer birth control
+*Reintroduce Wolves
+*Let the deer be
+
+Reproductive Patterns and survivorship:
+r-Strategists: Make lots of offspring, but with fewer resources, 
+Quantity not Quality
+K-startegists: Produce few young but invest lots of resources:
+Quality over Quantity
+Humans are 100% K strategists
+
+          r               |          K
+========================================================
+ small organisms          | Larger organisms
+ little energy to produce | Lots of energy per offspring
+ many offspring           | Few offspring produced
+ early maturity           | Late Maturity
+ short life expectancy    | Long life expectancy
+
+ How do we meaure populations?
+ Net sampling for aquatic animals
+ Capture mark recapture: measure percentage of times we recapture
+ Flying over gathering: photos, 
+ Tracking cameras: Wolves in yellowstone were tracked
+ Trail Cameras
+
+ Extra Credit question lol
+
+Genetic Diversity
+Variety of genes in a population
+Cause of sexual reproduction, easier for a species to survive with varied 
+genetic offspring
+More adaptable to environmental change
+More stable ecosystems that can react to change overall
+
+Florida Panther:
+Low genetic diversity
+In 1970s only 30 left
+Lots of inbreeding and birth defects
+Took a similar species, texas pumas, and introduced them into the area
+They had poor genetics, but the genetic diversity alone helped the population
+grow 
+
+Purebred dogs
+Most purebred dogs have high rates of genetic defects because the genetics
+dont vary much, mutts are generally healthier
+
+Smaller population easier to be wiped out drom a disease
+Genetic drift, gradual changes to gene frequency
+Bottleneck effect: event occurs that reduces population of one specific 
+allele type, surviving reproduction leads to less of the bottlenecked gene, 
+lower population of a certian trait
+
+Island Biogeography:
+Small islands with small populations, more vulnerable to extinction, less 
+genetic variety because there are less different members to pass on different
+genes
+Larger islands are more stable and biodiverse
+
+Metapopulations:
+Gene flow 
+Originally developed to describe insect pest population, 
+but extends across species
+
+Human infrastructure can inhibit population mixing, fragmented, isolated 
+populations
+

@@ -1,0 +1,29 @@
+Arithmetic with integers defaults to int regardless of short int, char, etc
+
+123 is a literal value
+123L is put into a long int
+123UL is put into an unsigned long int
+
+I am so tireddddd
+
+Oct(al)31 == Dec(imal)25
+Halloween is Christmas
+
+i am zoning tf out rn
+brain is shutting down i stg
+
+you can switch 2 variables using the standard
+int a = 22;
+int b = 33;
+int tmp = a;
+a = b;
+b = tmp;
+or using xors
+int a = 22;
+int b = 33;
+a=a^b; //a0^b0
+b=a^b; // (a0^b0)^b0 == a0^(b0^b0) == a0^0 == a0
+a=a^b; // (a0^b0)^a0 == b0^(a0^a0) == b0^0 == b0
+However, dont =)
+
+

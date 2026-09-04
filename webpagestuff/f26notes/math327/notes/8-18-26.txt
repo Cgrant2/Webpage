@@ -1,0 +1,29 @@
+a) e^0=?
+1
+b) ln(e)=?
+1
+c) ln(1)=?
+0
+d) if e^a=3 find e^(ln(2)+a)
+6
+e)
+e^2
+
+
+
+NOTES:
+Combination
+(a) =    a!
+( )  -----------
+(b)  (b)!*(a-b)!
+
+
+Geometric series limit = 1/(1-r) -1<r<1
+
+
+
+F(x)
+
+int(xe^-x^2/10)dx
+u=-x^2
+du=-2x

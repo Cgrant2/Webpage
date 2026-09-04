@@ -1,0 +1,66 @@
+Scientific Method overview/review
+
+A lot of our knowledge of the planet as humans came from direct experience, trial and error
+
+Scientific method:
+-----------------
+1: Identify question (Consult prior knowledge)
+2: Form a testable hypothesis
+3: Collect data to test hypothesis
+4: Interpret results (Consult prior knowledge) (if hypothesis rejection, jmp 2)
+5: Report for peer review
+6: Publish findings
+
+Principles Driving Scientific Method
+------------------------------------
+Empiricism: we can understand the world and natural laws through observation
+Uniformitarianism: Basic patterns exist across time and space: 
+ie, erosion doesnt just stop
+Parsimony: when multiple explanations are equally reasonable, the simpler is preffered 
+ie Occams Razor
+Uncertainty: Knowledge changes with new evidence, as do theories
+Repeatability: we should be able to reproduce the same results from the same test
+Proof is Elusive: we rarely expect science to provide absolute proof of a theory, 
+new evidence can always change our previous knowledge
+Testable questions: To find out if a theory is correct we need to test it, we cant ask a dog what it dreams
+
+Independant/Dependant Variables
+Also known as Explanatory and Response variables
+Independant - Cause
+Dependant - Effect
+
+With graphs generally independant variables make up the X axis, 
+the Y variable is the dependant
+(functions of X change the value of Y)
+
+Hypothesis:
+Explanation for an observation
+Should be proovable of falsifiable
+Can be but doesnt have to be an "If...Then statement"
+
+Observations:
+What you percieve that leads to a question
+More than one can pertain to the same hypothesis
+
+A hypothesis for the decrease in NY songbirds could be
+Higher noise pollution, Songbirds find mates through song, 
+perhaps the increased noise from industrialization has made it more difficult to mate
+Lower air quality, All/most terrestrial life requires air, 
+lower quality could make it more difficult for birds to reproduce before dying
+
+We can use models to understand environmental systems
+A model is a SIMPLIFIED representation of a system
+Most models are represented by equations
+
+The goal of science is to develop theories, the more we can understand the better
+
+Theory:
+A fact about the natural world that has been proven by a large body of evidence
+
+The scientific method may not be obvious and explicit, but it exists throughout 
+daily life every moment
+
+Examples could be:
+Exploring food court options to find what is the best
+Trying out different Elden Ring builds for quality and enjoyment
+Using my voice around others, and tweaking it with use

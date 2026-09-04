@@ -1,0 +1,81 @@
+get on Discord: done
+Send github id: done
+Get Zybooks: DO THIS
+Gogle form for reporting absences
+Starting monday attendance will start to be taken (it wasnt before?)
+Encourage group work, generally try to work with others
+I DO NOT WANT TO USE AI STOP FUCKING TALKING ABOUT IT, GOD
+AHHHHHHHH IM IN A CLASS WITH FUCKING AI USERS, GROSSSSS
+I AM BETTER THAN YOU
+OMFG MORE AI SLOP BULLSHIT
+
+Makefiles
+rules
+<target>: <prereq1> <prereq2> ... <prereqN>
+	<command1>
+	<command2>
+	...
+all and clean are conventional targets, all is make everything,
+clean is for wiping out generated files
+
+targets can have references to files, the makefile is enable to recompile 
+the parts of code that need to be recompiled
+
+for example
+```
+all: Dog.o Cat.o main.o
+# because they are ile names they must exist already
+
+Dog.0: Dog.cpp Dog.h #we want to make Dog.o, and need .cpp and .h to run
+	g++ Dog.cpp -c Dog.o
+# if the dependancies have a more recent timestamp than the target, it will
+# recompile
+
+-----
+Break
+-----
+
+Seperating implimentation from interface
+STOP TALKING ABOUT FUCKING AIIIII
+Include guard
+#ifndef (if not defined)
+#define
+stuff
+goes
+here
+#endif
+USE THEM THEY CAN HELP WITH INCLUDE DUPLICATION PROBLEMS
+
+vector data type
+vector <Movie> movies;
+vector is a linear container (array?)(list?)(stack?)(queue?)
+STOP WITH THE AI SHIT MAN, GOD
+Always consider which container to use, ie arrays and lists are better
+for different uses
+
+Vectors are implimented using arrays
+(as i kinda assumed)
+Vector is a more capable abstraction, its not JUST a static array
+In coding static means at compiliation, dynamic means at runtime
+Vectors are dynamic, they change at runtime, not compilation
+c++ keyword 'new' creates object of a class
+Using array indexes works with vectors ie movies[7];
+OOP, class vs struct convo, i prefer structs you can just make the
+functions outside of the definition
+Realistically, in a way, data and discrete used OOP, just in an odd C-based
+way
+
+God this class is looooong
+7 minutes left
+5 minutes left
+whats in the booooxxx
+
+I prefer writing asm to this class
+then again
+I like assembly
+
+3 minutes, people arestill asking about how do we know what size is defined
+at compilation
+bruh
+this is fucking CS101 (not literally)
+THATS WHAT TYPES ARE

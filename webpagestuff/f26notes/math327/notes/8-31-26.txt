@@ -1,0 +1,56 @@
+Topic 2: Intro to Probability
+
+Sample Space
+S= collection of all possible outcomes. Event E = subset of sample space.
+An event occurs, means that one of the outcomes happen. 
+0/ (zero with line through) an event without any outcome, This is called 
+a Null event
+
+Experiment: any process is an event where the outcome cannot be predicted
+
+Setting up groups on wednesday :sigh:
+
+You can have an outcome of multiple events, ie a die lands on 2 or 3, the die
+lands on anything other than 5, the die lands on an even number, etc.
+S={1,2,3,4,5,6}
+A={1}
+B={2}
+D={1,3}
+E={2,4,6}
+etc
+An even can also be ALL data points, as the set is a subset of itself
+
+A continuous sample space could be
+S={X|X>=0}, this example is a sample of any value between 0 and infinity
+Event could be
+A={X|X>=6}, this event shows every outcome greater or equal to 6
+B={X|3<=x<=10}, an event that is between 3 and 10 inclusively
+
+A sample with multiple types of outcomes must be split into specific outcomes
+For example a bag with multicolored, multinumbered balls, the sample space
+depends on whether we are interested in color or value
+ie Sc={Red, Green, Blue}, Sn={1,2,...,42}
+A sample spcae can also be both, ie S={R1,R2,...,G1,G2,...B1,B2,...}
+
+Compliment of an event A, denoted by A^c, is all of the outcomes not in A
+ex: S={1,2,3,4,5,6}, A={1,3,5}, A^c={2,4,6}, 
+think of as a logical not operator
+
+Intersection of A and B, denoted by AnB (Upside down U), Includes outcomes in
+A and B, Think of as a logical AND
+ex: S={1,2,3,4,5,6}, A={1,2,3,4}, B={2,4,6}, AnB={2,4}
+If there is no intersection, the result is Null Event, A and B are mutually 
+exclusive
+
+Union of A and B, denoted by AUB, Includes outcomes in
+A ior B, Think of as a logical iOR
+ex: S={1,2,3,4,5,6}, A={1,2,3,4}, B={2,4,6}, AUB={1,2,3,4,6}
+
+DeMorgans Law: 
+(AUB)^c= A^c n B^c
+(AnB)^c= A^c U B^c
+
+I am stupiddddddd, meant to say intersect and said unition, which is wrong
+in class discussion
+
+

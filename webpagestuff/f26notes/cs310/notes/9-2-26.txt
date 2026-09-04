@@ -1,0 +1,9 @@
+this class suuuucks just ai glazing like 50% of the time, and he wonders why noone
+answers shit
+
+"I pride myself on not knowing some things" - in reference to not knowing the order 
+of operations with dereference operator and member operator
+
+DO NOT RETURN A POINTER TO A VALUE ON THE STACK
+
+Always delete/free created objects on the heap, syntax is `delete(*Object);`

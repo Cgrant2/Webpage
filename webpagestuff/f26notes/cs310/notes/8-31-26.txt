@@ -1,0 +1,80 @@
+Talking about pointers, *, &
+
+BUT WITH THE TWIST OF AI DISCUSSION
+
+HOW DO YOU RUIN SOMETHING LIKE POINTERS :sob:
+
+Use nullptr instead of NULL
+
+STOP TELLING US TO ASK AI FOR LITERALLY EVERYTHING, JESUS CHRIST
+
+&var = pointer to var
+*ptr = value being pointed at
+
+<< insertion operator
+
+cout << "Something"
+
+you can define a variable as a reference, however it must be initialized:
+int &ir = i;
+
+So glad that CCC taught me pointers already, i know more deeply how pointers 
+work than many others, i have directly touched the memory with asm
+
+"this class is nothing if not fun" it is also annoying whenever i hear shit 
+about ai
+
+int func(int j, int *jp, int &jr);
+referenced variables CAN be changed within functions
+
+int num = 42
+int num2 = 100;
+func(_num_,_&num_,_num2_);
+
+Oh. My. Fucking. God. MORE AI SLOP BULLSHIT
+
+
+ohhhhhh, okay, so `int &name = var` is making another name for the 
+same variable
+
+int func(int j, int *jp, int &jr, const int &cri);
+const variable CANNOT be changed by the function
+
+Address space:
+Runtime concept
+Includes: Stack, Heap, code, static
+
+Address Space ALL RAM
++----------------------+
+|         Code         | <---- code
+|----------------------|
+|    static /global    | <---- includes global variables
+|----------------------|
+|        Stack         | <---- includes local variables used by func's
+|----------------------|
+|                      |
+|                      |
+|                      |
+|                      |
+|                      |
+|----------------------|
+|         Heap         | <---- dynamically allocated, more access than other
++----------------------+       parts of memory, we use `malloc` in C, in C++
+                               use `new`
+
+whats in the booooox
+
+`new` returns a pointer
+
+ip = new int;
+allocates space and give a pointer to the newly allocated space
+
+ip
++-+   +-+
+|.|-->|4| 
++-+   +-+
+
+Once done use free in C, delete in C++
+no time for double pointers???? wow this class sucks XD
+
+

@@ -1,0 +1,70 @@
+c++ operator overloading - using operators on created classes: look up later
+ai: ewwwwwwwwwwwwwwww
+hes saying we pretty much have to use it
+he wants us to understand ai generated code gonna kill myself
+most of the coding in ai :vomit:
+going further into data structures
+aI gEnErAtEs ThEm
+or theyre in libraries, which is actually a fair point
+now job interviews dont want people who think
+could i say ai is against my religion?
+maybe?
+aI aSsiStEd PrOgRaMmErS
+any actual class stuf now?
+nope, more ai
+we should ask ai for debugging questions
+:face::gunpointingleft:
+deadass copied exactly from the slide
+"Lab coding assignments (mostly AI-assisted)"
+is it feasible to switch majors
+JESUS FUCK STOP TALKING ABOUT AIIIIIII
+OMFG ITS LITERALLY REQUIRED, HES TALKING ABOUT TRACKING TOKENSSSSSSSSSSSSSSSS
+jesus christ i just want to leeeeeeeeeeeeeeeaaaaaaaaaaaaaavvvvvvvvvvvvvveeeeeeeeeeeeeeeeeeee
+oh my fucking GOOOOOOOODDDDDDDDDDDDD
+MORE FUCKING AI
+OFFING MYSELF RIGHT TF NOW
+being literate in c++ is a goal
+"i dont want to test you on things that are irrelevant because of ai, like syntax"
+bro
+not making sure we know syntax
+the literal most BASIC fucking thing
+it hasnt been tested whether of not people can code without ai
+dude
+youre like 50
+ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+were trying to take you to the next level with ai
+seriously
+i want to leaaaaaaaaaaavvvvvvvvvveeeeeeee
+i think its time to just try game programming
+maybe i can make a good game and just have money :sob:
+genuinely tuning him out half the time and am not missing anything
+can this class end yet
+how is there still a half hour
+academic honesty doesnt matter as much because of ai
+brother
+please
+end meeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+cs is a tough major, take care of yourself physically, mentally, and socially
+good advice actually
+surprising from fucking Mr. AI
+school is training, not a race
+start early, and work conistently
+pay attention and ask questions in class
+engage with classmates
+dont rely on slides entirely, pay attention in class
+its not neccesarry to know how to write small code because of ai
+cout is an object of the type ostream (output) part of the iostream lib 
+also a part of stdlib
+also std::cout
+:: is a scoping operator
+right side is coming from the left side, class, lib, etc
+using namespace std rmoves the requirement for "std::" because it inherently includes all of the namespace
+dude
+does he actually know how to code??????????????
+he doesnt know if <iostream> needs a .h or not, or if its included by stdlib.h
+ahhhhhhhhhh
+hate this class so much rn
+<< is an insert operator
+was about to close this, but more ai slop talk, he said itll just be made by ai
+streams is cool, i like streams, used em in my syprog class at CCC
+

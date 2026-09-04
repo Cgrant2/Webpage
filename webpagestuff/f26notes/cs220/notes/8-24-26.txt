@@ -1,0 +1,72 @@
+READ ALL THINGS BEFORE LABS/Excersises
+
+Dynamic linked executables link when the program gets excecuted
+Benefits because multiple programs can share binary code
+
+HATE these long ass days, im burnt tf ouuuut
+
+SRAM - Static RAM
+DRAM - Dynamic RAM
+
+Data will stay in Static RAM as long as power is applied, it will
+NOT stay in DRAM
+
+DRAM is far less physically expensive than SRAM, storing data on
+literally less hardware than SRAM
+
+1 Hour remains until freedom for the day, i like this class but its so 
+laaaaate
+
+Asm allows access to registers and memory
+C allows access to memory through addresses, but not registers
+High level languages hide memory from the developer
+
+All languages hide disk and I/O behind some kind of file abstraction
+provided by the OS
+
+WHY TF DID DANA CALL ME IN THE MIDDLE OF CLASS AGHHHHHHH
+HAD TO DROP MY VOICEEEEEEE
+
+Virutal memory: Processes assume that they have access to all alotted memory
+
+45 minutes, im in an awful mood from that call
+
+Kill meeeeeee
+
+Processes are isolated from each other, and consequentally have access to
+different virtual memory. This is why a process crashing doesnt shut 
+EVERYTHING down
+
+Some processes can use multiple threads (hey ive made those :3)
+(see SystemTools/stwc.c on github)
+
+30 minutes left
+
+I/O is typically one of two models:
+----------------------------------
+Polling: CPU repeatedly polls an I/O device to see when data
+is availible to input or output
+Interrupts: The I/O device interrupts the CPU when its ready to
+use I/O, the cpu saves the contect of the current task and runs 
+a special *interrupt-service routine* to handle I/O device request and
+then resumes the interrupted task
+
+Good code should be written to be efficient for devices, and
+readable for humans.
+
+Ah, we're discussing C, my beloved
+
+15 minutes
+
+Types describe how bytes should be interpereted
+
+C is a language where the programmer is always in charge
+
+I love C
+
+Java doesnt trust you, it saves you from yourself, C allows you to
+do whatever tf you want
+
+C truly is so beautiful
+
+const's must be initialized

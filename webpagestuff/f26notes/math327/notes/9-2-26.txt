@@ -1,0 +1,8 @@
+Started group formation: Standard Deviation
+Probability:
+P(S) = 1 (Probablity of a sample space)
+0<=P(A)<=1 (Probability of an outcome)
+if A and B are mutually exclusive, then P(AUB)=P(A)+P(B)
+P(A)=k/N if the sample space include N equally likely outcomes, and A 
+contains k outcomes
+Waiting for people to answer questions suuuuucks

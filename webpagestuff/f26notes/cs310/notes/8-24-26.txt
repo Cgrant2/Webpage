@@ -1,0 +1,146 @@
+Ughhhhh class hasnt even started and im having issues, mouse is dead and the touchpad 
+isnt working with me
+
+I seriously wish keyboard support was common and easy, like vim, the mouse is 
+literally uneccesary
+
+Oop, class is starting at 8:03
+
+Starting with c++, first assignment in lab tomorrow, wont take much time/effort, mostly just starting the basics
+
+Class today will be preparing for tomorrow
+
+Using linux for c++ and compiling etc
+
+Discussion about writing scalable code
+
+Something scales well if it operates well for larger inputs, code, algorithms, etc.
+
+Also software scaling, if we start writing on top of code with a certain set of 
+requirements, will it become unweildy an inefficient
+
+May lead to code refactoring being neccesary
+
+Breakdown of C++ into abstractions, functions, classes, namespaces, files, etc
+
+Lab will be moving from a single file to same program and functionality to multiple
+files that will be compiled into one executable
+
+(Im guessing making header files lol)
+
+Linux is based af
+
+Concepts and Terms:
+-------------------
+Abstraction - Hiding complexity
+(Today will be hiding within functions)
+Scalability - Will something continue to work as it grows
+Compiling: Compiling inputs source code and outputs object code
+Linking: Inputs one or more object code files links them together 
+to output an executable
+Make/makefiles
+
+C++ compiler is g++
+Ex:
+`darkmoon/~$ g++ main.cpp -o main`
+
+(Most of this is honestly review for me lol, we're talking about architectures 
+being different)
+
+g++ does compiling AND linking
+
+`g++ -c` tells g++ to ONLY compile and not link
+this does NOT produce an executable, it produces an OBJECT file/object code, it MUST
+be linked first
+
+Linux has a linker called `ln`, we can also use g++ as a linker
+
+If we split our code files we need to compile both
+Ex
+`g++ -c main1.cpp -o main1.o; g++ -c main2.cpp -o main2.o; g++ main1.o main2.o -o main`
+
+We use make and makefiles to abstract the compiling and linking process
+This abstraction also makes our projects more scalable
+
+We can put our main() in mostly its own file (also called a driver file)
+
+main() returns ints, generally `return 0;` means code executed properly, 
+the convention for a problem is returning a nonzero value
+
+We do this so other programs, shells, users, or developers KNOW that
+a problem has occured
+
+main can take arguments `int ac` and `char ** argv`
+
+Includes can be added to the top of c/c++ code
+
+
+Set the precedent of taking a break between class
+-------------------------------------------------
+Break start
+
+Ughhhhhhhhhh still having touchpad problems, hope the bookstore has AAA batteries -n-
+I also forgot to grab a fucking mousepad while i was home, this is bullshit
+These desks suuuuuuck because my mouse doesnt work on them
+
+Break over
+-------------------------------------------------
+
+We will create two files per c++ class, not a requirement, but a general standard
+for reasons like scalability
+
+The two types of files will be '.h' and '.cpp'
+
+'.h' IS c++ code, generally its things like definitions, statics, etc.
+
+
+Example
+`class Dog {
+	public:
+		Dog(); //(default constructor, has no parameters)
+		//within a class we can just declare a constructor alone if we so desire
+		Dog(char * dogname) { //can also define constructors
+			name=dogname;
+		}
+		int display(); 
+	private:
+		char * name;
+		int breed;
+}
+Dog mydog("Lilly") \\ USAGE FOR CONSTRUCTOR EXAMPLE
+`
+`
+int Dog::display();
+// vs
+int display();
+
+Dog::Dog(char * dogname) {
+	name=dogname;
+}
+Dog::Dog() {
+	name=NULL;
+}
+`
+Putting the implimentation within the class def is called 'inlining'
+Our reccomendation is to NOT use inline functions
+Declarations should be in the header, definitions should be in the cpp files
+Putting functions outside of class definitions make them have no relation to said class
+
+//7
+//7 human souls
+//or 13
+//waitaminute
+//7, 13
+//XEHANORT WHAT ARE YOU DOING HERE
+//NOT THE X-BLADE
+
+For includes of our OWN files we use quotes
+basically 
+#include <stdio.h>
+#include "Dog.h"
+
+//7 HUMAN SOULS
+//ayy, dude only brought up ai once, thank fuck
+// oh fuck, i just did my first write, yikes, gotta do that waaaayy more often
+
+Makefiles are more than just basic ass bash scripts that do g++ multiple times

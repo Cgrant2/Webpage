@@ -1,0 +1,55 @@
+View Notebook pages for extra detail
+
+We use random subsets to use population information
+
+Using probability we can go from entire populations to random subsets
+
+Our goal is to make sense of a general population based on information 
+from random subsets, this is statistics
+
+Population is EVERY item in a group, ie 8 batteries is a sample, ALL batteries is the population
+
+3 branches in statistics:
+-------------------------
+Collection of data: Collect data
+Data Summary: summarize data,  we could use numerical values, using tables
+Inference: coming to conclusions based on data, heavily based on the previous
+steps being correct 
+
+Data summary: we need to decide what kind of data we have, 
+in general seperated into two parts: categorical, or numerical
+
+Categorical data: also called discrete data, or qualatative, 
+it descibes data that can be put into different categories, sex, race, etc
+
+Numerical data: also called Continuous or Quantative
+it describes data we can put a direct value to, ie height and weight
+it is measurable
+
+We want to know where our data is located, the center locations of the data
+
+Sample Mean - Arithmetic average of a subset/sample
+denoted by x with a bar (picture in notebook), sum over the data and
+divide by amount of data
+
+Sample Median - denoted by x with a tilde on top (notebook)
+defined as:
+k=(n+1)/2
+if (k is an integer) {
+	median = x(k)
+else 
+	median=(x(n/2)+x(n/2+1))/2
+}
+(Quartiles are essentially medians of medians)
+
+Sample Trimmed Mean - Combination of Mean and Median
+denoted xbar sub(trim(r))
+r is the amount trimmed off of each side, it ranges from 0% to 50% (0<r<0.5)
+r*n is how many values are being trimmed off
+trimming uses normal rounding rules
+
+Sample Mode: the most frequently occuring value in the data set
+
+Percentile is taking the median from a value instead of the dead center, ie 40 percentile is the median prior to the middle based on 0.4
+
+Independance means a value is not effected by other values

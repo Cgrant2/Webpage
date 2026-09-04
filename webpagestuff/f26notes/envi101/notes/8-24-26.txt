@@ -1,0 +1,115 @@
+Aristotle believed the world was made from the 4 elements
+
+As tech has advanced we have been able to do scientific experiments 
+to understand our world better
+
+Conservation of mass - mass cannot be created or destroyed
+
+We discovered that atoms have positive and negative charges, the negative 
+coming from electrons, and positive from the center of the atom
+
+Matter - anything with mass and space
+Element - substance that cannot be broken down into other substances 
+by chemical reactions
+
+All elements are composed of atoms
+Atomic Number - Total number of protons in an atom
+Mass number - Total number of protons AND neutrons in the nucleus
+Average Atomic Mass - Average weight of atoms of an element
+
+Atoms exist in isotopes, same atomic number but different masses 
+(coming from a difference in neutrons)
+
+(Different carbon isotopes can be useful for carbon dating)
+(Different uranium isotopes can be used for nuclear power, though most 
+uranium on earth is the less useful type)
+
+Molecules/Compounds - Two or more atoms of the same or different 
+elements joined through chemical bonds
+
+Organic Molecules - contains either Carbon-Hydrogen or Carbon-Carbon bond
+
+Ion - Atoms or Molecules that have gained or lost a charge through 
+gaining or losing electrons
+
+Acid forms H+ ions are in water
+Bases form OH- ions when dissolved in water
+
+pH is logarithmics
+8pH is 10x more basic than 7pH
+
+Fluroantimonic acid has a pH of -21 (HOLY FUCKING SHIT)
+
+Pure sodium hydroxide CAN have a pH of 15
+
+Seawater has been on a downtrend of pH, becoming more acidic =(
+
+Macromolecules - Large Organic Molecules
+Polymers:
+---------
+Carbohydrates - our primary source of dietary energy, includes sugars
+Monosaccharide - simple sugars, cant be broken down
+Disaccharide - Constructed from 2 monosccharides, ie lactose
+Polysaccharide - Chains of many mono- or di- saccharides, 
+includes undigestible cellulose and digestable starch
+Lipids - Hydrophobic (not cool), component if cell walls, includes fats, 
+oils, and hormones, we burn some for energy such as propane
+Proteins -  Composed of Amino Acids, many Amino acids exist, but only
+22 are incorperated into proteins, proteins can catalyze chemical
+reactions or form structural components of cells
+(Further understanding of proteins has helped us develop things like
+plant based meat)
+Nucleic acids - store information and instructions on how to build protein,
+includes DNA and RNA
+
+Polymer applications: Sustainable Asphalt, increased use of plastics in 
+roads, plastic that would otehrwise be dumped in landfills
+
+Energy - the ability to do work (Flowing water, a driving car, electricity, 
+heat)
+includes Potential, Kinetic, and Chemical energy
+
+Engines using Oxygen and Isooctane, both molecules rich in chemical
+energy, burn producing Carbon Dioxide and Water, both molecules poor
+in chemical energy
+
+Laws of thermodynamics:
+First law - Conservation of energy, energy is not created or destroyed, 
+but rather moved and converted
+Second law - As energy is used it becomes less useful; entropy increases in
+natural systems
+
+Energy efficiency: Measure of how much work results from each unit
+of energy put into a system
+This will be discussed in more depth throughout the semester
+
+We can look at energy transfer in ecosystems
+Sun -> Photosynthesis -> Celular Respiration
+
+Trophic levels:
+Producers: plants, algae, bacteria
+|
+v
+Primary Consumers: Herbivores
+|
+v
+Secondary Consumer: Carnivores
+|
+v
+Tertiary Consumers: "Top" Carnivores
+{ALL LEVELS CONSUMERS: Decomposers, Parasites, Scavengers}
+
+Energy transfer can be looked at through a food web
+
+Detritivor- eats discarded byproducts
+Decomposer - eats dead things returns nutrients to the soil
+
+Energy transfer decreases as the food chain progresses
+Hypothetical:
+Producers: 100% -> Herbivores: 16.1% -> Primary Carnivores: 1.8% ->
+Top Carnivore: 0.1%
+{Detritivores and Decomposers: 24.2%}
+
+Material cycles: Carbon, Nitrogen, Phosphorous
+
+WEDNESDAY: EVOLUTION
