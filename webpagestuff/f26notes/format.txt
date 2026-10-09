@@ -1,0 +1,11 @@
+				<div>
+					<h2>
+					DAY
+					</h2>
+					<p>
+						<br>
+						<a href="./DAY.html">
+							Go to
+						</a>
+					</p>
+				</div>
